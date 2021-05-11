@@ -65,7 +65,7 @@ Enter the path to the file : ../resources
 ```
 
 
-Vu que la commande 2 est lister les fichiers dans le dossier ressources voici le résultat.
+Vu que la command "2" est lister les fichiers dans le dossier ressources voici le résultat.
 
 ```sh
 .
