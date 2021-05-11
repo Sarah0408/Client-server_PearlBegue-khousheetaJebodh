@@ -19,6 +19,7 @@ Le projet est de créer un communication entre un client et un serveur d'ou on p
 
 ## Execution
 Pour lancer la programmation du projet on doit:
+
 Premièrement on doit lancer le program serveur 
 ```sh
 ./serveur
@@ -30,6 +31,7 @@ Puis on lance le program client pour pouvoir faire notre demande.
 ./client 127.0.0.1
 ```
 Note: si l'utilisateur mette pas d'IP address automatiquement il prend l'IP host local.
+
 Ex. Comme ceci
 ```sh
 ./client 
@@ -38,6 +40,7 @@ Ex. Comme ceci
 ## Utiliser
 ### Client
 Comment le program fonction et comment faire votre demande.
+
 Étape 1: Demande quelle commande allez-vous exécuter.
 
 ```sh
@@ -76,4 +79,5 @@ Listen
 ```
 ## Github
 Propriétaire : Jebodh Khousheeta
+
 Collaborateur : Begue Pearl
